@@ -11,4 +11,5 @@ File 9-firstdirdeletion delete the directory my-first-directory in /tmp director
 File 10-back changes the working directory to the previous one.
 File 11-lists  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 File 12-file-type prints the type of the file named iamafile that can be found in /tmp directory.
+file 13-symbolic-link create a symbolic link to /bin/ls, named __ls__ in the current working directory.
 
