@@ -4,3 +4,4 @@ File 2-bring-me-home changes the working directory to the user’s home director
 File 3-listfiles display current directory contents in a long format.
 File 4-listmorefiles display current directory contents, including hidden files in long format.
 File 5-listfilesdigitonly display current directory contents in long format with user and group IDs displayed numerically and hidden files.
+File 6-firstdirectory creates a directory named my-first-directory in the /tmp/ directory.
