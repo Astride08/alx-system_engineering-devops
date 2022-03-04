@@ -1,0 +1,3 @@
+git add .
+git commit -m "a scrpit that adds all the files in my folder"
+git push
