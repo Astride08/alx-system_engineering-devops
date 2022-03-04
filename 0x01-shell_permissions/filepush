@@ -1,0 +1,4 @@
+git add .
+git commit -m "script to commit all my files in my directory 0x01-shell_permissions"
+git push
+
