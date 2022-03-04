@@ -8,4 +8,5 @@ File 6-multiple-permissions adds execute permission to the owner and the group o
 File 7-everybody adds execution permission to the owner, the group owner and the other users, to the file hello.
 File 8-James-Bond adds all permissions only to other users.
 File 9-John-Doe sets the mode of the file hello.
+File  10-mirror-permissions sets the mode of the file hello the same as olleh’s mode.
 
