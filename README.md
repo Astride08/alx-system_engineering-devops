@@ -1,1 +1,1 @@
-file 0-current-working-directory prints the absolute path name of the current working directory.
+this directory describes all the shell projects carried out as a student at alx school
