@@ -2,4 +2,6 @@ File 0-hello-world prints “Hello, World”, followed by a new line to the stan
 File 1-confused-smiley displays a confused smiley "(Ôo)'.
 File 2-hellofile display the content of the /etc/passwd file.
 File 3-twofiles display the content of /etc/passwd and /etc/hosts.
-
+File 4-lastlines display the last 10 lines of /etc/passwd.
+File 5-firstlines display the first 10 lines of /etc/passwd.
+File 6-third-line displays the third line of the file iacta.
